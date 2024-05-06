@@ -1,0 +1,5 @@
+Mejora en la seccion POS:
+
+- Caso 1(Agotamiento del producto en stock): en este caso es cuando hay producto disponible peor no la cantidad solicitada por el usuario. 
+
+- Caso 2(Falta del producto en stock): en este caso es cuando no hay producto disponible en stock.
